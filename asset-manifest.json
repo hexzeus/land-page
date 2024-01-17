@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/land-page/static/css/main.f855e6bc.css",
+    "main.js": "/land-page/static/js/main.96eb4823.js",
+    "static/js/787.42c976bd.chunk.js": "/land-page/static/js/787.42c976bd.chunk.js",
+    "static/media/logo.svg": "/land-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/land-page/index.html",
+    "main.f855e6bc.css.map": "/land-page/static/css/main.f855e6bc.css.map",
+    "main.96eb4823.js.map": "/land-page/static/js/main.96eb4823.js.map",
+    "787.42c976bd.chunk.js.map": "/land-page/static/js/787.42c976bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.96eb4823.js"
+  ]
+}
