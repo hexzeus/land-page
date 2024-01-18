@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/land-page/static/css/main.6d51aef3.css",
+    "main.css": "/land-page/static/css/main.950ec3f6.css",
     "main.js": "/land-page/static/js/main.f7234b0e.js",
     "static/js/787.42c976bd.chunk.js": "/land-page/static/js/787.42c976bd.chunk.js",
     "static/media/HEXagon(1).png": "/land-page/static/media/HEXagon(1).fe69cfa9409805ecbe22.png",
@@ -8,12 +8,12 @@
     "static/media/gopulse.jpg": "/land-page/static/media/gopulse.f63063d3d52231cac8dc.jpg",
     "static/media/HEXscout.jpg": "/land-page/static/media/HEXscout.fe166ad58ac07e39f2dd.jpg",
     "index.html": "/land-page/index.html",
-    "main.6d51aef3.css.map": "/land-page/static/css/main.6d51aef3.css.map",
+    "main.950ec3f6.css.map": "/land-page/static/css/main.950ec3f6.css.map",
     "main.f7234b0e.js.map": "/land-page/static/js/main.f7234b0e.js.map",
     "787.42c976bd.chunk.js.map": "/land-page/static/js/787.42c976bd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d51aef3.css",
+    "static/css/main.950ec3f6.css",
     "static/js/main.f7234b0e.js"
   ]
 }
