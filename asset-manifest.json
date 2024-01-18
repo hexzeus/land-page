@@ -1,19 +1,37 @@
 {
   "files": {
     "main.css": "/land-page/static/css/main.e877eb7d.css",
-    "main.js": "/land-page/static/js/main.f7234b0e.js",
+    "main.js": "/land-page/static/js/main.0e5c0da4.js",
     "static/js/787.42c976bd.chunk.js": "/land-page/static/js/787.42c976bd.chunk.js",
     "static/media/HEXagon(1).png": "/land-page/static/media/HEXagon(1).fe69cfa9409805ecbe22.png",
+    "static/media/image3A25633_Glitch12.jpg": "/land-page/static/media/image3A25633_Glitch12.d4aacdb65d061bc491bc.jpg",
+    "static/media/HEXstats.jpg": "/land-page/static/media/HEXstats.68627efc4f96fe41119f.jpg",
     "static/media/hexdotcom.jpg": "/land-page/static/media/hexdotcom.ed9d6600141eb88e0be9.jpg",
+    "static/media/z.jpg": "/land-page/static/media/z.ebf43de0c446490e9195.jpg",
+    "static/media/apphexwin.jpg": "/land-page/static/media/apphexwin.2239f1eab5c376b40cc9.jpg",
+    "static/media/hexPINK.jpg": "/land-page/static/media/hexPINK.23772178be1f7781b515.jpg",
+    "static/media/image3A25633_Glitch5.jpg": "/land-page/static/media/image3A25633_Glitch5.3a2c23c3ba7f94444115.jpg",
+    "static/media/HEXfire.jpg": "/land-page/static/media/HEXfire.1c3e89e3b22d05570fbc.jpg",
+    "static/media/RHyoutube.jpg": "/land-page/static/media/RHyoutube.3a56b3b87d9c95602ebc.jpg",
+    "static/media/HEXQ_mirror23.jpg": "/land-page/static/media/HEXQ_mirror23.e278006f70ca8bdba7e2.jpg",
+    "static/media/richardHEART.jpg": "/land-page/static/media/richardHEART.2f19c788fc3883a6bd08.jpg",
+    "static/media/gorealdefi.jpg": "/land-page/static/media/gorealdefi.49eedfeead2951337ea8.jpg",
     "static/media/gopulse.jpg": "/land-page/static/media/gopulse.f63063d3d52231cac8dc.jpg",
+    "static/media/scan.jpg": "/land-page/static/media/scan.80c456a571701840b938.jpg",
+    "static/media/bridge.jpg": "/land-page/static/media/bridge.adf76e01073d0e666844.jpg",
+    "static/media/launch.jpg": "/land-page/static/media/launch.91f15c9489980c7c9271.jpg",
+    "static/media/Screenshot 2023-12-22 at 09-54-26 Your projects - Canva.jpg": "/land-page/static/media/Screenshot 2023-12-22 at 09-54-26 Your projects - Canva.5c2b3e2f594bbe98adb0.jpg",
     "static/media/HEXscout.jpg": "/land-page/static/media/HEXscout.fe166ad58ac07e39f2dd.jpg",
+    "static/media/stakeHEXtoday.jpg": "/land-page/static/media/stakeHEXtoday.2651f6cd58096e023005.jpg",
+    "static/media/Trezor.jpg": "/land-page/static/media/Trezor.28dc57d2dbe3c486d3ae.jpg",
+    "static/media/pulsex.jpg": "/land-page/static/media/pulsex.8731e1140a91fcd6642b.jpg",
     "index.html": "/land-page/index.html",
     "main.e877eb7d.css.map": "/land-page/static/css/main.e877eb7d.css.map",
-    "main.f7234b0e.js.map": "/land-page/static/js/main.f7234b0e.js.map",
+    "main.0e5c0da4.js.map": "/land-page/static/js/main.0e5c0da4.js.map",
     "787.42c976bd.chunk.js.map": "/land-page/static/js/787.42c976bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e877eb7d.css",
-    "static/js/main.f7234b0e.js"
+    "static/js/main.0e5c0da4.js"
   ]
 }
