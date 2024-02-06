@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/land-page/static/css/main.84eb8058.css",
-    "main.js": "/land-page/static/js/main.dbc9e5fe.js",
+    "main.js": "/land-page/static/js/main.38584f07.js",
     "reactPlayerYouTube.js": "/land-page/static/js/reactPlayerYouTube.bc74ef27.chunk.js",
     "reactPlayerSoundCloud.js": "/land-page/static/js/reactPlayerSoundCloud.33f371c0.chunk.js",
     "reactPlayerVimeo.js": "/land-page/static/js/reactPlayerVimeo.0f804cf3.chunk.js",
@@ -16,10 +16,13 @@
     "reactPlayerFilePlayer.js": "/land-page/static/js/reactPlayerFilePlayer.0e4330a3.chunk.js",
     "reactPlayerPreview.js": "/land-page/static/js/reactPlayerPreview.f2760950.chunk.js",
     "static/js/787.42c976bd.chunk.js": "/land-page/static/js/787.42c976bd.chunk.js",
+    "static/media/imagethumbnail3.png": "/land-page/static/media/imagethumbnail3.406a0985cf6a312dc218.png",
+    "static/media/imagethumbnail2.png": "/land-page/static/media/imagethumbnail2.f9403fb3146047473fe3.png",
+    "static/media/imagethumbnail4.png": "/land-page/static/media/imagethumbnail4.965d992df9afa447208f.png",
+    "static/media/imgthumbnail1.png": "/land-page/static/media/imgthumbnail1.f359e30a28baec449bb3.png",
     "static/media/HEXagon(1).png": "/land-page/static/media/HEXagon(1).fe69cfa9409805ecbe22.png",
     "static/media/image3A25633_Glitch12.jpg": "/land-page/static/media/image3A25633_Glitch12.d4aacdb65d061bc491bc.jpg",
     "static/media/thepulsetube.jpg": "/land-page/static/media/thepulsetube.c4d3956738093ed3390f.jpg",
-    "static/media/image1.jpg": "/land-page/static/media/image1.26ca382e514b083afc3a.jpg",
     "static/media/HEXstats.jpg": "/land-page/static/media/HEXstats.68627efc4f96fe41119f.jpg",
     "static/media/hexdotcom.jpg": "/land-page/static/media/hexdotcom.ed9d6600141eb88e0be9.jpg",
     "static/media/pulsex(1).jpg": "/land-page/static/media/pulsex(1).85ac24ad362b304927b1.jpg",
@@ -30,7 +33,6 @@
     "static/media/hexPINK.jpg": "/land-page/static/media/hexPINK.23772178be1f7781b515.jpg",
     "static/media/image3A25633_Glitch5.jpg": "/land-page/static/media/image3A25633_Glitch5.3a2c23c3ba7f94444115.jpg",
     "static/media/icosa.jpg": "/land-page/static/media/icosa.65241ff3053c90f46d29.jpg",
-    "static/media/image2-thumbnail.jpg": "/land-page/static/media/image2-thumbnail.ffc99784a918affa21f7.jpg",
     "static/media/HEXfire.jpg": "/land-page/static/media/HEXfire.1c3e89e3b22d05570fbc.jpg",
     "static/media/RHyoutube.jpg": "/land-page/static/media/RHyoutube.3a56b3b87d9c95602ebc.jpg",
     "static/media/HEXQ_mirror23.jpg": "/land-page/static/media/HEXQ_mirror23.e278006f70ca8bdba7e2.jpg",
@@ -39,11 +41,14 @@
     "static/media/gopulse.jpg": "/land-page/static/media/gopulse.f63063d3d52231cac8dc.jpg",
     "static/media/scan.jpg": "/land-page/static/media/scan.80c456a571701840b938.jpg",
     "static/media/pulsechain.jpg": "/land-page/static/media/pulsechain.4069f09bf0a3d032cb0f.jpg",
-    "static/media/image2.jpg": "/land-page/static/media/image2.c4732598bb234c641d14.jpg",
+    "static/media/img1.png": "/land-page/static/media/img1.881503bc4c5073ef6427.png",
     "static/media/bridge.jpg": "/land-page/static/media/bridge.adf76e01073d0e666844.jpg",
     "static/media/launch.jpg": "/land-page/static/media/launch.91f15c9489980c7c9271.jpg",
+    "static/media/img3.png": "/land-page/static/media/img3.6d330f7b9b7e2a5b88b6.png",
     "static/media/RHpattern.jpg": "/land-page/static/media/RHpattern.f9e9bbfc867956cd2b00.jpg",
     "static/media/internetmoney.jpg": "/land-page/static/media/internetmoney.e160cfa94630968965ef.jpg",
+    "static/media/img4.png": "/land-page/static/media/img4.fee4b6cbbe0267283d74.png",
+    "static/media/img2.png": "/land-page/static/media/img2.3a783bf6841ae08d083d.png",
     "static/media/maximus.jpg": "/land-page/static/media/maximus.f57dbaf9513af6e4ebbb.jpg",
     "static/media/HEXcrypto.jpg": "/land-page/static/media/HEXcrypto.6e4e48d000447168f7b4.jpg",
     "static/media/hextoys.jpg": "/land-page/static/media/hextoys.a13a10a33b75466219c4.jpg",
@@ -56,7 +61,7 @@
     "static/media/dexTOYS.jpg": "/land-page/static/media/dexTOYS.658619caa4c050640ab6.jpg",
     "index.html": "/land-page/index.html",
     "main.84eb8058.css.map": "/land-page/static/css/main.84eb8058.css.map",
-    "main.dbc9e5fe.js.map": "/land-page/static/js/main.dbc9e5fe.js.map",
+    "main.38584f07.js.map": "/land-page/static/js/main.38584f07.js.map",
     "reactPlayerYouTube.bc74ef27.chunk.js.map": "/land-page/static/js/reactPlayerYouTube.bc74ef27.chunk.js.map",
     "reactPlayerSoundCloud.33f371c0.chunk.js.map": "/land-page/static/js/reactPlayerSoundCloud.33f371c0.chunk.js.map",
     "reactPlayerVimeo.0f804cf3.chunk.js.map": "/land-page/static/js/reactPlayerVimeo.0f804cf3.chunk.js.map",
@@ -74,6 +79,6 @@
   },
   "entrypoints": [
     "static/css/main.84eb8058.css",
-    "static/js/main.dbc9e5fe.js"
+    "static/js/main.38584f07.js"
   ]
 }
