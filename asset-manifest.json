@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/land-page/static/css/main.31d6cfe0.css",
-    "main.js": "/land-page/static/js/main.84f5930f.js",
+    "main.js": "/land-page/static/js/main.3693f10b.js",
     "static/js/498.fd042192.chunk.js": "/land-page/static/js/498.fd042192.chunk.js",
     "static/js/703.b41254ea.chunk.js": "/land-page/static/js/703.b41254ea.chunk.js",
     "static/js/379.c58350c9.chunk.js": "/land-page/static/js/379.c58350c9.chunk.js",
@@ -43,7 +43,7 @@
     "static/media/pulsex.jpg": "/land-page/static/media/pulsex.8731e1140a91fcd6642b.jpg",
     "static/media/dexTOYS.jpg": "/land-page/static/media/dexTOYS.658619caa4c050640ab6.jpg",
     "index.html": "/land-page/index.html",
-    "main.84f5930f.js.map": "/land-page/static/js/main.84f5930f.js.map",
+    "main.3693f10b.js.map": "/land-page/static/js/main.3693f10b.js.map",
     "498.fd042192.chunk.js.map": "/land-page/static/js/498.fd042192.chunk.js.map",
     "703.b41254ea.chunk.js.map": "/land-page/static/js/703.b41254ea.chunk.js.map",
     "379.c58350c9.chunk.js.map": "/land-page/static/js/379.c58350c9.chunk.js.map",
@@ -51,6 +51,6 @@
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.84f5930f.js"
+    "static/js/main.3693f10b.js"
   ]
 }
