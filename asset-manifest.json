@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/land-page/static/css/main.31d6cfe0.css",
-    "main.js": "/land-page/static/js/main.dd1b2b0b.js",
+    "main.js": "/land-page/static/js/main.a66d901a.js",
     "static/js/498.fd042192.chunk.js": "/land-page/static/js/498.fd042192.chunk.js",
     "static/js/703.b41254ea.chunk.js": "/land-page/static/js/703.b41254ea.chunk.js",
     "static/js/379.c58350c9.chunk.js": "/land-page/static/js/379.c58350c9.chunk.js",
     "static/js/787.42c976bd.chunk.js": "/land-page/static/js/787.42c976bd.chunk.js",
+    "static/media/placeholderlogo.png": "/land-page/static/media/placeholderlogo.b2fe9eff4dc714068066.png",
     "static/media/image3A25633_Glitch12.jpg": "/land-page/static/media/image3A25633_Glitch12.d4aacdb65d061bc491bc.jpg",
     "static/media/thepulsetube.jpg": "/land-page/static/media/thepulsetube.c4d3956738093ed3390f.jpg",
     "static/media/HEXstats.jpg": "/land-page/static/media/HEXstats.68627efc4f96fe41119f.jpg",
@@ -38,13 +39,12 @@
     "static/media/piteas.jpg": "/land-page/static/media/piteas.9bd42aa204fd8e7420cd.jpg",
     "static/media/HEXscout.jpg": "/land-page/static/media/HEXscout.fe166ad58ac07e39f2dd.jpg",
     "static/media/stakeHEXtoday.jpg": "/land-page/static/media/stakeHEXtoday.2651f6cd58096e023005.jpg",
-    "static/media/placeholderlogo.png": "/land-page/static/media/placeholderlogo.833bc08b253de7a97ef0.png",
     "static/media/Trezor.jpg": "/land-page/static/media/Trezor.28dc57d2dbe3c486d3ae.jpg",
     "static/media/HEXpub.jpg": "/land-page/static/media/HEXpub.e7c35bba4553fde4c233.jpg",
     "static/media/pulsex.jpg": "/land-page/static/media/pulsex.8731e1140a91fcd6642b.jpg",
     "static/media/dexTOYS.jpg": "/land-page/static/media/dexTOYS.658619caa4c050640ab6.jpg",
     "index.html": "/land-page/index.html",
-    "main.dd1b2b0b.js.map": "/land-page/static/js/main.dd1b2b0b.js.map",
+    "main.a66d901a.js.map": "/land-page/static/js/main.a66d901a.js.map",
     "498.fd042192.chunk.js.map": "/land-page/static/js/498.fd042192.chunk.js.map",
     "703.b41254ea.chunk.js.map": "/land-page/static/js/703.b41254ea.chunk.js.map",
     "379.c58350c9.chunk.js.map": "/land-page/static/js/379.c58350c9.chunk.js.map",
@@ -52,6 +52,6 @@
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.dd1b2b0b.js"
+    "static/js/main.a66d901a.js"
   ]
 }
