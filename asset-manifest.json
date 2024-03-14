@@ -1,30 +1,26 @@
 {
   "files": {
     "main.css": "/land-page/static/css/main.31d6cfe0.css",
-    "main.js": "/land-page/static/js/main.335d4d75.js",
+    "main.js": "/land-page/static/js/main.d2b04588.js",
     "static/js/498.fd042192.chunk.js": "/land-page/static/js/498.fd042192.chunk.js",
     "static/js/703.b41254ea.chunk.js": "/land-page/static/js/703.b41254ea.chunk.js",
     "static/js/198.59d39484.chunk.js": "/land-page/static/js/198.59d39484.chunk.js",
     "static/js/787.42c976bd.chunk.js": "/land-page/static/js/787.42c976bd.chunk.js",
     "static/media/placeholderlogo.png": "/land-page/static/media/placeholderlogo.b2fe9eff4dc714068066.png",
     "static/media/HEXstats.jpg": "/land-page/static/media/HEXstats.68627efc4f96fe41119f.jpg",
-    "static/media/plslogo.png": "/land-page/static/media/plslogo.1e83aab892f1e8b084e6.png",
     "static/media/apphexwin.jpg": "/land-page/static/media/apphexwin.2239f1eab5c376b40cc9.jpg",
     "static/media/icosa.jpg": "/land-page/static/media/icosa.65241ff3053c90f46d29.jpg",
     "static/media/gorealdefi.jpg": "/land-page/static/media/gorealdefi.49eedfeead2951337ea8.jpg",
     "static/media/gopulse.jpg": "/land-page/static/media/gopulse.f63063d3d52231cac8dc.jpg",
-    "static/media/hexplslogo.png": "/land-page/static/media/hexplslogo.e07b7d297ed20b7079fa.png",
-    "static/media/plshex.png": "/land-page/static/media/plshex.e07b7d297ed20b7079fa.png",
     "static/media/scan.jpg": "/land-page/static/media/scan.80c456a571701840b938.jpg",
     "static/media/bridge.jpg": "/land-page/static/media/bridge.adf76e01073d0e666844.jpg",
     "static/media/launch.jpg": "/land-page/static/media/launch.91f15c9489980c7c9271.jpg",
-    "static/media/hexethlogo.png": "/land-page/static/media/hexethlogo.c48656a5580fc2806c1e.png",
     "static/media/piteas.jpg": "/land-page/static/media/piteas.9bd42aa204fd8e7420cd.jpg",
     "static/media/HEXscout.jpg": "/land-page/static/media/HEXscout.fe166ad58ac07e39f2dd.jpg",
     "static/media/Trezor.jpg": "/land-page/static/media/Trezor.28dc57d2dbe3c486d3ae.jpg",
     "static/media/pulsex.jpg": "/land-page/static/media/pulsex.8731e1140a91fcd6642b.jpg",
     "index.html": "/land-page/index.html",
-    "main.335d4d75.js.map": "/land-page/static/js/main.335d4d75.js.map",
+    "main.d2b04588.js.map": "/land-page/static/js/main.d2b04588.js.map",
     "498.fd042192.chunk.js.map": "/land-page/static/js/498.fd042192.chunk.js.map",
     "703.b41254ea.chunk.js.map": "/land-page/static/js/703.b41254ea.chunk.js.map",
     "198.59d39484.chunk.js.map": "/land-page/static/js/198.59d39484.chunk.js.map",
@@ -32,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.335d4d75.js"
+    "static/js/main.d2b04588.js"
   ]
 }
